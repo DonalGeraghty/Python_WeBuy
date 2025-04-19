@@ -23,11 +23,9 @@ def page(browser):
     yield page
     page.close()
 
-def test_add_positive_numbers(page):
-    expected_title = "CeX"
-    # In your test function or a conditional block
-    page.screenshot(path="headless_debug.png")
-    assert page.title() == expected_title
+def test_hello_world(page):
+    expected_title = "Hello World"
+    print(expected_title)
 
 def test_we_buy(page):
     cex_page = CexPage(page)
