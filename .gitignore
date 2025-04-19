@@ -3,8 +3,3 @@
 /.idea
 *.pyc
 __pycache__
-__pycache__/blu_ray.cpython-313.pyc
-__pycache__/cex_page.cpython-313.pyc
-__pycache__/data_control.cpython-313.pyc
-__pycache__/my_mailer.cpython-313.pyc
-__pycache__/test_my_module.cpython-313-pytest-8.3.5.pyc
