@@ -23,10 +23,6 @@ def page(browser):
     yield page
     page.close()
 
-def test_hello_world(page):
-    expected_title = "Hello World"
-    print(expected_title)
-
 def test_we_buy(page):
     cex_page = CexPage(page)
     cex_page.goto_website()
