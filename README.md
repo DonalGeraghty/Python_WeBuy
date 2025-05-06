@@ -6,6 +6,6 @@ manually add file
 
 .env
 
-MY_KEY="xxxx xxxx xxxx xxxx"
-RECIPIENT="RECIPIENT@gmail.com"
-SENDER="SENDER@gmail.com"
+<p>MY_KEY="xxxx xxxx xxxx xxxx"</br>
+RECIPIENT="RECIPIENT@gmail.com"</br>
+SENDER="SENDER@gmail.com"</p>
